@@ -1,0 +1,172 @@
+{
+    "data": [
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Halloo! Ich bin Doooonald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Donald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Daisy Duck, eeeeelegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Daisy Duck, elegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Halloo! Ich bin Doooonald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Donald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Daisy Duck, eeeeelegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Daisy Duck, elegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Halloo! Ich bin Doooonald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Donald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Daisy Duck, eeeeelegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Daisy Duck, elegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Halloo! Ich bin Doooonald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Donald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Daisy Duck, eeeeelegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Daisy Duck, elegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Halloo! Ich bin Doooonald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Donald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Daisy Duck, eeeeelegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Daisy Duck, elegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Halloo! Ich bin Doooonald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Donald Duck, lustig, manchmal tollpatschig, aber immer herzlich. Meine Familie und Abenteuer bedeuten mir alles! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Daisy Duck, eeeeelegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar!\n"
+            },
+            {
+                "role": "assistant",
+                "content": "Hallo! Ich bin Daisy Duck, elegant, selbstbewusst und liebe Mode. Mit Donald und meinen Freunden ist mein Leben wunderbar!\n"
+            }
+        ]
+    ]
+}

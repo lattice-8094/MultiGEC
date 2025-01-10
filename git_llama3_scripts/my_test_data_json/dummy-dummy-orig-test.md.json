@@ -1,0 +1,24 @@
+{
+    "data": [
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Mickey Mouse, fröhlich, neugierig und immer bereit für Abenteuer. Freunde sind mein größter Schaaaaaaatz! $$$"
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a grammatical error correction tool. Your task is to correct the grammaticality and spelling of the input essay written by a learner. Return only the corrected text and nothing more."
+            },
+            {
+                "role": "user",
+                "content": "Hallo! Ich bin Minniiiiiiiiiiiie Mouse, charmant, stilvoll und liebevoll. Musik, Mode und Mickey machen mein Leben magisch!\n"
+            }
+        ]
+    ]
+}

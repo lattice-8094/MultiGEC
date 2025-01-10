@@ -1,0 +1,7 @@
+datasets
+peft
+torch
+torchvision
+torchaudio
+transformers
+trl
